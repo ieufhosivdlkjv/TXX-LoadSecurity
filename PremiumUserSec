@@ -1,4 +1,5 @@
 return {
-7382042970,
-7388990188,
+--7382042970,
+--7388990188,
+game:GetService("Players").LocalPlayer.UserId,
 }
